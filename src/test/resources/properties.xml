@@ -1,0 +1,10 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<Properties xmlns="http://chameleon.ibs-qa.ru/schema/properties">
+    <CheckBox name="allure.enabled" defaultValue="true"/>
+    <Text name="applicationUrl" defaultValue="http://localhost:8080/"/>
+    <CheckBox name="maximizeWindow" defaultValue="true"/>
+    <Text name="defaultWaitTimeOut" defaultValue="10"/>
+    <Text name="implicitlyWait" defaultValue="0"/>
+    <CheckBox name="highlightElements" defaultValue="true"/>
+    <CheckBox name="closeDriverAfterTest" defaultValue="true"/>
+</Properties>
