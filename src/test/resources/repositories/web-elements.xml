@@ -54,7 +54,7 @@
             <TextInput name="Несуществующее поле" waitTimeOut="5"/>
             <TextInput name="Поле со значением"/>
             <TextInput name="Поле с placeholder"/>
-            <TextInput name="Поле с ошибкой" customType="org.example.elements.ValidationInput"/>
+            <TextInput name="Поле с ошибкой" customType="com.ibs.elements.ValidationInput"/>
         </Page>
         <Page name="Отладка коллекций">
             <StaticText name="Заголовок" locator='//h5[text()="Отладка коллекций"]' isLoaded="true"/>

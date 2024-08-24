@@ -2,5 +2,5 @@
 <Properties xmlns="http://chameleon.ibs-qa.ru/schema/properties">
     <CheckBox name="delayStep" label="Замедление выполнения тестов" defaultValue="true"/>
     <CheckBox name="incognito" label="Запускать браузер в режиме инкогнито" defaultValue="false"/>
-    <Hidden name="applicationUrl" defaultValue="https://qualit.appline.ru"/>
+    <Hidden name="applicationUrl" defaultValue="http://localhost:8080/"/>
 </Properties>

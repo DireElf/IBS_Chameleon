@@ -1,4 +1,4 @@
-package org.example.drivers;
+package com.ibs.drivers;
 
 import org.openqa.selenium.WebDriver;
 import org.springframework.stereotype.Component;

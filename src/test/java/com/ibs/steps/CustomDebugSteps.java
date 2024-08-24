@@ -1,4 +1,4 @@
-package org.example.steps;
+package com.ibs.steps;
 
 import lombok.extern.slf4j.Slf4j;
 import ru.ibsqa.chameleon.steps.AbstractSteps;

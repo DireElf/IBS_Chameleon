@@ -1,4 +1,4 @@
-package org.example.steps;
+package com.ibs.steps;
 
 import io.cucumber.java.ru.Когда;
 import org.springframework.beans.factory.annotation.Autowired;

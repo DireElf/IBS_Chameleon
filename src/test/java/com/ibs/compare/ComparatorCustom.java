@@ -1,4 +1,4 @@
-package org.example.compare;
+package com.ibs.compare;
 
 import org.apache.commons.lang3.StringUtils;
 import org.springframework.stereotype.Component;
